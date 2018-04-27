@@ -1,2 +1,2 @@
 print ('hello')
-a=27
+a=30
